@@ -1,0 +1,13 @@
+p, h1, title, form, header {
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: xx-large;
+}
+ 
+input   {
+    width: 100%;
+    margin: 10px 0;
+    border: 2px solid blue;
+    border-radius: 6px;
+
+}
+
